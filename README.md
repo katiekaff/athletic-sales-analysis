@@ -1,5 +1,3 @@
-# Module 5
-
-Module 5 Challenge - Athletic Sales Analysis
+# Module 5 - Athletic Sales Analysis Challenge
 
 Utilized copilot to help create some of the code needed to complete challenge requirements
